@@ -1,5 +1,5 @@
 Summary:	Collection of fortunes from Battletech novels
-Summary(pl):	Kolekcja fortunek z nowel Battletech
+Summary(pl.UTF-8):   Kolekcja fortunek z nowel Battletech
 Name:		fortune-mod-battletech
 Version:	0.1
 Release:	1
@@ -14,9 +14,9 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 Fortune-mod-battletech is a fortune database that contains a series of
 quotes from various Battletech novels.
 
-%description -l pl
-Fortune-mod-battletech to baza fortunek zawieraj±ca seriê cytatów z
-ró¿nych nowel Batteltech.
+%description -l pl.UTF-8
+Fortune-mod-battletech to baza fortunek zawierajÄ…ca seriÄ™ cytatÃ³w z
+rÃ³Å¼nych nowel Batteltech.
 
 %prep
 %setup -q
