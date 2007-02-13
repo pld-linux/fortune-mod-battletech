@@ -1,5 +1,5 @@
 Summary:	Collection of fortunes from Battletech novels
-Summary(pl.UTF-8):   Kolekcja fortunek z nowel Battletech
+Summary(pl.UTF-8):	Kolekcja fortunek z nowel Battletech
 Name:		fortune-mod-battletech
 Version:	0.1
 Release:	1
