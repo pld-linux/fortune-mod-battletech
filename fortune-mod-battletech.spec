@@ -8,6 +8,7 @@ Group:		Applications/Games
 Source0:	http://lamer0.com/%{name}-%{version}.tar.gz
 # Source0-md5:	0800619d9f1e9dcf3af05fb1ddf17ffa
 URL:		http://freshmeat.net/projects/fortune-mod-battletech2/
+BuildArch:	noarch
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
